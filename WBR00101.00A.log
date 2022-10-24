@@ -1,0 +1,12 @@
+12.03.2020 17:32:16 - Info - 	Mode:	Export
+12.03.2020 17:32:16 - Info - 	Spec:	WBR00101.00A
+12.03.2020 17:32:16 - Info - 	Output file:	D:\PycharmProjects\Cuadp Program DemoV5 - generating files\Scripts\WBR00101.00A.xml
+12.03.2020 17:32:16 - Info - 	Environment: PROD
+12.03.2020 17:32:16 - Info - 	Computer name:	IADP245W
+12.03.2020 17:32:16 - Info - 	User name:	uic00691
+12.03.2020 17:32:16 - Info - 	UCI version: 	1.4.0.19078
+12.03.2020 17:32:16 - Info - 	ADD version: 	4.9.0
+12.03.2020 17:32:30 - Info - 	12.03.2020 17:32:20 - Connection to ADD established
+12.03.2020 17:32:30 - Info - 	12.03.2020 17:32:20 - Get container from ADD
+12.03.2020 17:32:30 - Info - 	12.03.2020 17:32:20 - ContainerversionID: 382803 - Spec: 'WBR00101.00A'
+12.03.2020 17:32:30 - Info - 	XML file saved in D:\PycharmProjects\Cuadp Program DemoV5 - generating files\Scripts\WBR00101.00A.xml
